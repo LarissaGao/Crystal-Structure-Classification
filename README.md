@@ -8,3 +8,6 @@ This has prompted scientists to tune the material’s properties so as to obtain
 <br>
 A total of 73 elements have been identified in the A and B sites of ABO3 structures, leading to numerous oxides of the perovskite type. Features such as electronegativity, ionic radius, valence, and bond lengths of A-O and B-O pairs have been identified that enable a priori crystal structure prediction.
 
+<hr>
+raw dataset: https://drive.google.com/uc?id=1D1J-QyUPDNlNt_ykoi-EBWOH9OM5QC61 
+
