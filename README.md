@@ -1,2 +1,2 @@
 # Crystal-Structure-Classification
-ML project classify crystal structure
+ML project: classify crystal structure
